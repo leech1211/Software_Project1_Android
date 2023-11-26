@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <dimen name="textview_margin">60dp</dimen>
+    <dimen name="item_padding">2dp</dimen>
+    <dimen name="border"></dimen>
+</resources>
